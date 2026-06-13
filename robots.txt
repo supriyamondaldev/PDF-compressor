@@ -1,0 +1,8 @@
+# robots.txt — PDF Compressor
+# Allow all crawlers full access
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://supriyamondaldev.github.io/PDF-compressor/sitemap.xml
